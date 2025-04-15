@@ -21,7 +21,6 @@ jobs:
           key: docker-cache-${{ github.sha }}
           restore-keys: docker-cache-
 
-      # Actions 워크플로우 환경 변수 파일 생성 작업(step) 수정
       - name: Create .env file
         run: echo """${{ secrets.ENV_FILE }}""" >> .env
 
