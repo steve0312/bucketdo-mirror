@@ -6,7 +6,7 @@
 
 <br />
 
-[🔗 BucketDo 바로가기](https://3.38.150.0.sslip.io/)
+[🔗 BucketDo 바로가기](https://43.201.20.130.sslip.io/)
 
 <br />
 
